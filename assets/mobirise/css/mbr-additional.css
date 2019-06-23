@@ -1546,9 +1546,45 @@ body {
   padding-bottom: 0px;
   background-color: #232323;
 }
+.cid-rucGgd01x0 {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rucGgd01x0 .counter-container {
+  color: #767676;
+}
+.cid-rucGgd01x0 .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-rucGgd01x0 .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-rucGgd01x0 .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: none;
+  border: 1px solid #149dcc;
+  color: #149dcc;
+  content: '✓';
+}
 .cid-ru9irCTifp {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-ru9irCTifp .counter-container {
