@@ -847,6 +847,9 @@
             },
             "foot-menu-item B": {
               "color": "#55b4d4"
+            },
+            ".media-container-row .mbr-text": {
+              "color": "#55b4d4"
             }
           },
           "_name": "footer7",
