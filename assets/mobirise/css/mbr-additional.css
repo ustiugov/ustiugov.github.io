@@ -703,13 +703,13 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sR6MVWDuIj {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 0px;
-  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+  background: linear-gradient(0deg, #ffffff, #232323);
 }
 .cid-sR6MVWDuIj .mbr-iconfont-social {
   font-size: 32px;
-  color: #ff3366;
+  color: #55b4d4;
 }
 .cid-sR6MVWDuIj .social-list a:focus {
   text-decoration: none;
