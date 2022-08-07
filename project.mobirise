@@ -53,7 +53,9 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlert": false,
     "gdpr": false,
-    "mbrsiteDomain": "uoecydgz5n"
+    "mbrsiteDomain": "uoecydgz5n",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
