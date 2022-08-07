@@ -679,17 +679,11 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-ru8qioP3P4 {
-  background-image: url("../../../assets/images/edinburgh-1610x906.jpg");
-}
-.cid-ru8qioP3P4 .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 @media (min-width: 992px) {
   .cid-ru8qioP3P4 .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -701,6 +695,10 @@ section.lazy-placeholder:after {
   .cid-ru8qioP3P4 .mbr-text {
     text-align: center;
   }
+}
+.cid-ru8qioP3P4 .mbr-text,
+.cid-ru8qioP3P4 .mbr-section-btn {
+  text-align: center;
 }
 .cid-sR6MVWDuIj {
   padding-top: 0px;
