@@ -1277,6 +1277,52 @@ section.lazy-placeholder:after {
   border-radius: 0;
   content: "✓";
 }
+.cid-tvlNOTMjnV {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tvlNOTMjnV .nav-tabs .nav-item.open .nav-link:focus,
+.cid-tvlNOTMjnV .nav-tabs .nav-link.active:focus {
+  outline: none;
+}
+.cid-tvlNOTMjnV .nav-tabs {
+  flex-wrap: wrap;
+  border-bottom: 1px solid #6592e6;
+}
+@media (max-width: 767px) {
+  .cid-tvlNOTMjnV .nav-item {
+    width: 100%;
+    margin: 0;
+  }
+}
+.cid-tvlNOTMjnV .nav-tabs .nav-link {
+  transition: all .5s;
+  border: none;
+  border-bottom: 3px solid transparent;
+  border-radius: 0 !important;
+}
+.cid-tvlNOTMjnV .nav-tabs .nav-link:not(.active) {
+  color: #000000;
+}
+.cid-tvlNOTMjnV .nav-tabs .nav-item {
+  margin-right: 1.5rem;
+}
+.cid-tvlNOTMjnV .nav-link,
+.cid-tvlNOTMjnV .nav-link.active {
+  padding: 1rem 0;
+  background-color: transparent;
+}
+.cid-tvlNOTMjnV .nav-tabs .nav-link.active {
+  color: #6592e6;
+  border-bottom: 3px solid #6592e6;
+}
+.cid-tvlNOTMjnV H4 {
+  text-align: center;
+}
+.cid-tvlNOTMjnV H3 {
+  text-align: center;
+}
 .cid-tirYieuzb8 {
   padding-top: 3rem;
   padding-bottom: 3rem;
