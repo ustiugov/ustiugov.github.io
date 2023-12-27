@@ -1079,6 +1079,29 @@ section.lazy-placeholder:after {
 .cid-tPCQYgQNYy img {
   width: 100%;
 }
+.cid-tZE3iQXMDs {
+  background: #ffffff;
+}
+.cid-tZE3iQXMDs .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-tZE3iQXMDs .mbr-figure {
+  margin: 0 auto;
+}
+.cid-tZE3iQXMDs figcaption {
+  position: relative;
+}
+.cid-tZE3iQXMDs figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-tZE3iQXMDs .image-block {
+    width: 100% !important;
+  }
+}
 .cid-tkvWYFKi4e {
   background-image: url("../../../assets/images/mbr-1920x1081.jpg");
 }
